@@ -48,9 +48,9 @@ if (ua.includes("Locket")) {
             title: "Đã Kích Hoạt 💛",
             feature_set: [
                 {
-                    title: "muốn làm gì ib 0347398898 ✨",
-                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé htducdzvcl 💛",
-                    imageURL: "https://i.ibb.co/PZQHH4mj/1792412216884-628047735573529135-g6654948817480022723-f93c7a6b63e9b68df7122d1233dddb2f.jpg"
+                    title: "muốn làm gì ib 0983396656 ✨",
+                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé Nguyenanhquan239 💛",
+                    imageURL: "https://i.ibb.co/Fq75tH9L/nh-ch-p-m-n-h-nh-2026-10-19-212451.png"
                 }
             ],
             primary_button_title: "Done",
