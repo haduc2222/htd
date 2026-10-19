@@ -48,9 +48,9 @@ if (ua.includes("Locket")) {
             title: "Đã Kích Hoạt 💛",
             feature_set: [
                 {
-                    title: "muốn làm gì ib 0983396656 ✨",
-                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé Nguyenanhquan239 💛",
-                    imageURL: "https://i.ibb.co/Fq75tH9L/nh-ch-p-m-n-h-nh-2026-10-19-212451.png"
+                    title: "muốn làm gì ib 0347398898 ✨",
+                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé htducdzvcl 💛",
+                    imageURL: "https://i.ibb.co/3m4cfHcP/1792421485075-628047735573529135-5113849413042652000-c233cae204e268791a93f22c8f09357b.jpg"
                 }
             ],
             primary_button_title: "Done",
@@ -62,7 +62,7 @@ if (ua.includes("Locket")) {
         android_subscribe_gold_button_enabled: "false",
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
-        settings_facebook_url: "https://www.facebook.com/share/1DNxqfiXYt/?mibextid=wwXIfr",
+        settings_facebook_url: "https://www.facebook.com/profile.php?id=61591484856915",
     });
 
     // ============================================================
@@ -393,14 +393,14 @@ if (ua.includes("Locket")) {
                 section: "🎨 Holiday Caption",
                 items: [
                     {
-                        overlay_id: "caption:halloween_2026",
+                        overlay_id: "caption:HA_TRUNG_DUC",
                         source: "remote",
                         caption: {
                             background: { colors: ["#150804", "#C8540D"] },
                             icon: { data: "🎃", type: "emoji" },
                             max_lines: 1,
-                            text: "Halloween",
-                            localized_text: { en: "Halloween", vn: "Halloween" },
+                            text: "HA_TRUNG_DUC",
+                            localized_text: { en: "HA_TRUNG_DUC", vn: "HA_TRUNG_DUC" },
                             text_color: "#FFB182",
                             type: "static_content"
                         }
