@@ -398,8 +398,8 @@ if (ua.includes("Locket")) {
                             background: { colors: ["#150804", "#C8540D"] },
                             icon: { data: "🎃", type: "emoji" },
                             max_lines: 1,
-                            text: "Halloween",
-                            localized_text: { en: "Halloween", vn: "Halloween" },
+                            text: "HA TRUNG DUC",
+                            localized_text: { en: "HA TRUNG DUC", vn: "HA TRUNG DUC" },
                             text_color: "#FFB182",
                             type: "static_content"
                         }
