@@ -47,7 +47,7 @@ if (ua.includes("Locket")) {
            title: "Đã Kích Hoạt 💛",
             feature_set: [
                 {
-                    title: "muốn làm gì ib 0347398898 ✨",
+                    title: "muốn làm ib 0347398898 ✨",
                     body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé htducdzvcl 💛",
                     imageURL: "https://i.ibb.co/3m4cfHcP/1792421485075-628047735573529135-5113849413042652000-c233cae204e268791a93f22c8f09357b.jpg"
                   }
