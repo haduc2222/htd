@@ -392,7 +392,7 @@ if (ua.includes("Locket")) {
                 section: "🎨 Holiday Caption",
                 items: [
                     {
-                        overlay_id: "caption:halloween_2026",
+                        overlay_id: "caption:HA TRUNG DUC",
                         source: "remote",
                         caption: {
                             background: { colors: ["#150804", "#C8540D"] },
